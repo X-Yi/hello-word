@@ -7,5 +7,6 @@ if "Could not open a connection to your authentication agent." appear
 
 then try
 * *eval $(ssh-agent)*
+
 then again
 * *ssh-add*
