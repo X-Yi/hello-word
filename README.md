@@ -4,6 +4,7 @@ Answer: you need to use an ssh agent.
 * *ssh-add*
 
 if "Could not open a connection to your authentication agent." appear
+
 then try
 * *eval $(ssh-agent)*
 then again
