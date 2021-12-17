@@ -1,4 +1,4 @@
-# hello-word
+# hello-world
 How to avoid being asked passphrase each time when doing git push?
 Answer: you need to use an ssh agent.
 * *ssh-add*
